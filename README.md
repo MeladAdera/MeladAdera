@@ -95,4 +95,4 @@ A complete e-commerce system with authentication, product management, shopping c
 ## 📫 Contact
 
 - Email: dev.melad.adera@gmail.com
-- LinkedIn: https://linkedin.com/in/MeladAdera
+- LinkedIn: www.linkedin.com/in/melad-adera-97105a371
